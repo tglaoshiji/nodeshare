@@ -1,4 +1,5 @@
-# 高速机场推荐
+#  2024年12月02日更新 最新免费节点 
+## 高速机场推荐
 ###  高速机场推荐1
 
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
@@ -16,13 +17,13 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 
-## 2024年11月30日更新 最新免费节点 
+
 
 ### 订阅链接
 
-v2ray订阅链接:   https://lailai159.serv00.net/uploads/2024/11/20241130.txt
+v2ray订阅链接:   https://lailai159.serv00.net/uploads/2024/12/20241202.txt
 
-clash订阅链接： https://lailai159.serv00.net/uploads/2024/11/20241130.yaml
+clash订阅链接： https://lailai159.serv00.net/uploads/2024/12/20241202.yaml
 
 ### 高速机场推荐4
 
