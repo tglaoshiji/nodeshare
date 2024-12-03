@@ -1,4 +1,4 @@
-#  2024年12月02日更新 最新免费节点 
+#  2024年12月03日更新 最新免费节点 
 ## 高速机场推荐
 ###  高速机场推荐1
 
@@ -21,9 +21,9 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ### 订阅链接
 
-v2ray订阅链接:   https://lailai159.serv00.net/uploads/2024/12/20241202.txt
+v2ray订阅链接:   https://lailai159.serv00.net/uploads/2024/12/20241203.txt
 
-clash订阅链接： https://lailai159.serv00.net/uploads/2024/12/20241202.yaml
+clash订阅链接： https://lailai159.serv00.net/uploads/2024/12/20241203.yaml
 
 ### 高速机场推荐4
 
