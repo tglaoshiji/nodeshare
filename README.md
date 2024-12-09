@@ -28,9 +28,9 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ### 订阅链接
 
-v2ray订阅链接:   https://lailai159.serv00.net/uploads/2024/12/20241208.txt
+v2ray订阅链接:   https://lailai159.serv00.net/uploads/2024/12/20241209.txt
 
-clash订阅链接： https://lailai159.serv00.net/uploads/2024/12/20241208.yaml
+clash订阅链接： https://lailai159.serv00.net/uploads/2024/12/20241209.yaml
 
 ### 高速机场推荐4
 
