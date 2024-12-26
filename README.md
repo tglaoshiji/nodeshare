@@ -76,7 +76,7 @@
 注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
 
 
-最便宜的订阅有5元 5000G/月。
+最便宜的订阅有9.9元 80G/月。
 
 全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
 
@@ -117,9 +117,9 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ### 订阅链接
 
-v2ray订阅链接:   https://lailai159.serv00.net/uploads/2024/12/20241226.txt
+v2ray订阅链接:   https://a.nodeshare.xyz/uploads/2024/12/20241226.txt
 
-clash订阅链接： https://lailai159.serv00.net/uploads/2024/12/20241226.yaml
+clash订阅链接： https://a.nodeshare.xyz/uploads/2024/12/20241226.yaml
 
 ### 高速机场推荐4
 
