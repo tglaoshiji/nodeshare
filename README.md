@@ -121,6 +121,8 @@ v2ray订阅链接:   https://a.nodeshare.xyz/uploads/2025/1/20250106.txt
 
 clash订阅链接： https://a.nodeshare.xyz/uploads/2025/1/20250106.yaml
 
+sing-box订阅链接: https://a.nodeshare.xyz/uploads/2025/01/20250107.json
+
 ### 高速机场推荐4
 
 [【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
