@@ -1,4 +1,4 @@
-#  2025年1月23日更新 最新免费节点 
+#  2025年1月25日更新 最新免费节点 
 
 
  ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -11,10 +11,8 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [EF](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
-| [spcloud](#ef) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) |  | 10 元 200G/月 |  |
-| [FC](#ef) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) |  | 10 元 200G/月 |  |
+| [冲上云霄](cpdd.one](https://cpdd.one/?r=42354) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
+| [KK加速](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
@@ -23,19 +21,19 @@
 | [快猫](#xxai) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
 | [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [EF](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
+| [KK加速](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
 ###  高速机场推荐1
 
-[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【KK加速Cloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【KK加速Cloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
@@ -50,6 +48,44 @@
 
 * * *
 
+### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+
+注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
+
+
+试用：
+
+最便宜的订阅有9元 120G/月。
+
+最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
+
+* * *
+
+### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+
+注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+
+
+试用：1天 2G
+
+最便宜的订阅有10元 100G/月。
+
+解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
+
+* * *
+
+### [加速啦](https://jiasu.la/?r=42350)
+
+注册链接：[jiasu.la](https://jiasu.la/?r=42350)
+
+
+试用：1G 不限时
+
+最便宜的订阅有10元 60G/月。
+
+全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
+
+* * *
 ### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
@@ -60,16 +96,6 @@
 
 * * *
 
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-
-最便宜的订阅有10元 100G/月。
-
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
-
-* * *
 
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
@@ -107,21 +133,17 @@
 
 ###  高速机场推荐2
 
-[【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 
-FCCloud全球节点，解锁流媒体GPT，平民价格
-
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 
 
 
 ### 订阅链接
 
-v2ray订阅链接:   https://a.nodeshare.xyz/uploads/2025/1/20250123.txt
+v2ray订阅链接:   https://a.nodeshare.xyz/uploads/2025/1/20250125.txt
 
-clash订阅链接： https://a.nodeshare.xyz/uploads/2025/1/20250123.yaml
+clash订阅链接： https://a.nodeshare.xyz/uploads/2025/1/20250125.yaml
 
-sing-box订阅链接: https://a.nodeshare.xyz/uploads/2025/01/20250123.json
+sing-box订阅链接: https://a.nodeshare.xyz/uploads/2025/01/20250125.json
 
 ### 高速机场推荐4
 
@@ -154,4 +176,4 @@ sing-box订阅链接: https://a.nodeshare.xyz/uploads/2025/01/20250123.json
 注册地址：[【轻云官网（点击注册）】](https://qingyun.world/#/register?code=C5zOLvph)
 
 每日免费更新 clash，v2ray,免费节点订阅链接
-**https://www.fuye.fun**
+**https://nodeshare.xyz**
