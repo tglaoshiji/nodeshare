@@ -139,11 +139,11 @@
 
 ### 订阅链接
 
-v2ray订阅链接:   https://a.nodeshare.xyz/uploads/2025/1/20250126.txt
+v2ray订阅链接:   https://a.nodeshare.xyz/uploads/2025/1/20250127.txt
 
-clash订阅链接： https://a.nodeshare.xyz/uploads/2025/1/20250126.yaml
+clash订阅链接： https://a.nodeshare.xyz/uploads/2025/1/20250127.yaml
 
-sing-box订阅链接: https://a.nodeshare.xyz/uploads/2025/01/20250126.json
+sing-box订阅链接: https://a.nodeshare.xyz/uploads/2025/01/20250127.json
 
 ### 高速机场推荐4
 
