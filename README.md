@@ -1,4 +1,4 @@
-#  2025年1月26日更新 最新免费节点 
+#  2025年1月27日更新 最新免费节点 
 
 
  ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -11,19 +11,19 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [冲上云霄](cpdd.one](https://cpdd.one/?r=42354) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [KK加速](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
-| [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
-| [Aladdin](#aladdin) | [https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=mN5ERopkOr) |  | 30元 390G/半年 |  | 暂 |
-| [快猫](#xxai) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
-| [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
-| [稳连云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [KK加速](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
-| [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
-| [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
+| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
+| [KK加速](#ef) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
+| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
+| [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
+| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
+| [Aladdin](#aladdin) | [点击进入](https://www.avatargpt.xyz/register?aff=mN5ERopkOr) |  | 30元 390G/半年 |  | 暂 |
+| [快猫](#xxai) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
+| [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
+| [稳连云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
+| [KK加速](#ef) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
+| [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
+| [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
 ###  高速机场推荐1
