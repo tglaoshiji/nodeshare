@@ -1,4 +1,4 @@
-#  2025年1月27日更新 最新免费节点 
+#  2025年1月28日更新 最新免费节点 
 
 
  ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -22,7 +22,7 @@
 | [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
 | [KK加速](#ef) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
-| [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
+| [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
@@ -139,11 +139,11 @@
 
 ### 订阅链接
 
-v2ray订阅链接:   https://a.nodeshare.xyz/uploads/2025/1/20250127.txt
+v2ray订阅链接:   https://a.nodeshare.xyz/uploads/2025/1/20250128.txt
 
-clash订阅链接： https://a.nodeshare.xyz/uploads/2025/1/20250127.yaml
+clash订阅链接： https://a.nodeshare.xyz/uploads/2025/1/20250128.yaml
 
-sing-box订阅链接: https://a.nodeshare.xyz/uploads/2025/01/20250127.json
+sing-box订阅链接: https://a.nodeshare.xyz/uploads/2025/01/20250128.json
 
 ### 高速机场推荐4
 
