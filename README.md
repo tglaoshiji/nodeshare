@@ -139,7 +139,7 @@
 
 ### 订阅链接
 
-v2ray订阅链接:   'https://a.nodeshare.xyz/uploads/2025/1/20250131.txt'
+v2ray订阅链接:   '''https://a.nodeshare.xyz/uploads/2025/1/20250131.txt'''
 
 clash订阅链接： 'https://a.nodeshare.xyz/uploads/2025/1/20250131.yaml'
 
