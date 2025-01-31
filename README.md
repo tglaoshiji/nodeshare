@@ -149,7 +149,7 @@ https://a.nodeshare.xyz/uploads/2025/1/20250131.yaml
 
 sing-box订阅链接: 
 
-> https://a.nodeshare.xyz/uploads/2025/01/20250131.json 
+ https://a.nodeshare.xyz/uploads/2025/01/20250131.json 
 
 ### 高速机场推荐4
 
