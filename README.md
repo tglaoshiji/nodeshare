@@ -123,7 +123,7 @@
 
 注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
 
-
+ 
 最便宜的订阅有9元 120G/月。
 
 最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
@@ -139,11 +139,11 @@
 
 ### 订阅链接
 
-v2ray订阅链接:   ''' https://a.nodeshare.xyz/uploads/2025/1/20250131.txt '''
+v2ray订阅链接:   > https://a.nodeshare.xyz/uploads/2025/1/20250131.txt 
 
-clash订阅链接： 'https://a.nodeshare.xyz/uploads/2025/1/20250131.yaml'
+clash订阅链接： > https://a.nodeshare.xyz/uploads/2025/1/20250131.yaml
 
-sing-box订阅链接: 'https://a.nodeshare.xyz/uploads/2025/01/20250131.json'
+sing-box订阅链接: >  https://a.nodeshare.xyz/uploads/2025/01/20250131.json
 
 ### 高速机场推荐4
 
