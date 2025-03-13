@@ -1,4 +1,4 @@
-#  2025年3月10日更新 最新免费节点 
+#  2025年3月13日更新 最新免费节点 
 
 
  ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -141,15 +141,15 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/3/20250310.txt 
+https://a.nodeshare.xyz/uploads/2025/3/20250313.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/3/20250310.yaml
+https://a.nodeshare.xyz/uploads/2025/3/20250313.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/3/20250310.json 
+ https://a.nodeshare.xyz/uploads/2025/3/20250313.json 
 
 ### 高速机场推荐4
 
