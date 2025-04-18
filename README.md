@@ -1,4 +1,4 @@
-#  2025年4月17日更新 最新免费节点 
+#  2025年4月18日更新 最新免费节点 
 
 
  ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -12,7 +12,6 @@
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [KK加速](#ef) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
@@ -21,19 +20,12 @@
 | [快猫](#xxai) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
 | [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [KK加速](#ef) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
 ###  高速机场推荐1
 
-[【KK加速Cloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
-不限设备数
-
-解锁流媒体、chatGPT
-
-注册地址：[【KK加速Cloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
@@ -141,15 +133,15 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/4/20250414.txt 
+https://a.nodeshare.xyz/uploads/2025/4/20250418.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/4/20250414.yaml
+https://a.nodeshare.xyz/uploads/2025/4/20250418.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/4/20250414.json 
+ https://a.nodeshare.xyz/uploads/2025/4/20250418.json 
 
 ### 高速机场推荐4
 
