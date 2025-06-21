@@ -1,4 +1,4 @@
-#  2025年6月20日更新 最新免费节点 
+#  2025年6月21日更新 最新免费节点 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
@@ -131,15 +131,15 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/6/20250619.txt 
+https://a.nodeshare.xyz/uploads/2025/6/20250621.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/6/20250619.yaml
+https://a.nodeshare.xyz/uploads/2025/6/20250621.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/6/20250619.json 
+ https://a.nodeshare.xyz/uploads/2025/6/20250621.json 
 
 ### 高速机场推荐4
 
@@ -172,4 +172,4 @@ sing-box订阅链接:
 注册地址：[【轻云官网（点击注册）】](https://qingyun.world/#/register?code=C5zOLvph)
 
 每日免费更新 clash，v2ray,免费节点订阅链接
-**https://nodeshare.xyz**
+**https://yfuye.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9**
