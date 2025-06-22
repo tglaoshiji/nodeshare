@@ -1,4 +1,4 @@
-#  2025年6月21日更新 最新免费节点 
+#  2025年6月22日更新 最新免费节点 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
@@ -14,7 +14,7 @@
 | :------- | :--- | :--- | :--------- | :-------- |
 | [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 | ✔支持 |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 10元 300G/30天 | ✔支持 |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 |  |
+| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](http://c.xcvpn.me/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
@@ -57,9 +57,9 @@
 * * *
 
 
-### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [星辰VPN](http://c.xcvpn.me/?path=register&code=jWv0CnPO)
 
-注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击注册](http://c.xcvpn.me/?path=register&code=jWv0CnPO)
 
 
 最便宜的订阅有6元 60G/月。
@@ -131,15 +131,15 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/6/20250621.txt 
+https://a.nodeshare.xyz/uploads/2025/6/20250622.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/6/20250621.yaml
+https://a.nodeshare.xyz/uploads/2025/6/20250622.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/6/20250621.json 
+ https://a.nodeshare.xyz/uploads/2025/6/20250622.json 
 
 ### 高速机场推荐4
 
