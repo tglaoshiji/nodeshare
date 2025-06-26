@@ -1,4 +1,4 @@
-#  2025年6月25日更新 最新免费节点 
+#  2025年6月26日更新 最新免费节点 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
@@ -15,7 +15,7 @@
 | [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 | ✔支持 |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 10元 300G/30天 | ✔支持 |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](http://c.xcvpn.me/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
-| [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [快猫](#xxai) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
@@ -83,9 +83,9 @@
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[goflybit.pages.dev](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -131,35 +131,35 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/6/20250625.txt 
+https://a.nodeshare.xyz/uploads/2025/6/20250626.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/6/20250625.yaml
+https://a.nodeshare.xyz/uploads/2025/6/20250626.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/6/20250625.json 
+ https://a.nodeshare.xyz/uploads/2025/6/20250626.json 
 
 ### 高速机场推荐4
 
-[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+注册地址：[【火烧云官网（点击注册）】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐3
 
-[【快猫】](https://kuaimao.io/#/register?code=TTaIXhNs)
+[【快猫】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=TTaIXhNs)
+注册地址：[【快猫官网（点击注册）】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 ###  高速机场推荐5 
 
