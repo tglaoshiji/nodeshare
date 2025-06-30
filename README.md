@@ -14,7 +14,7 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 | ✔支持 |
+| [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  	 | 10元 100G/月 | ✔支持 |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 10元 300G/30天 | ✔支持 |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](http://c.xcvpn.me/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -37,7 +37,7 @@
 
 最便宜的订阅有10元 200G/月
 
-试用:1天2G
+
 
 解锁奈飞迪士尼
 
@@ -133,15 +133,15 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/6/20250628.txt 
+https://a.nodeshare.xyz/uploads/2025/6/20250630.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/6/20250628.yaml
+https://a.nodeshare.xyz/uploads/2025/6/2025060.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/6/20250628.json 
+ https://a.nodeshare.xyz/uploads/2025/6/20250630.json 
 
 ### 高速机场推荐4
 
