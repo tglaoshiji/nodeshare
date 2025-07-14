@@ -1,4 +1,4 @@
-## 更新时间 2025-07-13
+## 更新时间 2025-07-14
 
 #  每天更新clash\v2ray\ss\ssr\torjan 最新免费节点 
 
@@ -140,15 +140,15 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/7/20250713.txt 
+https://a.nodeshare.xyz/uploads/2025/7/20250714.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/6/20250713.yaml
+https://a.nodeshare.xyz/uploads/2025/7/20250714.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/6/20250713.json 
+ https://a.nodeshare.xyz/uploads/2025/7/20250714.json 
 
 ### 高速机场推荐4
 
