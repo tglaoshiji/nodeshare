@@ -179,4 +179,4 @@ sing-box订阅链接:
 注册地址：[【轻云官网（点击注册）】](https://qingyun.world/#/register?code=C5zOLvph)
 
 每日免费更新 clash，v2ray,免费节点订阅链接
-**https://yfuye.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9**
+**https://yfuye.com/freenode**
