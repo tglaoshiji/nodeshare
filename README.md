@@ -79,7 +79,7 @@
 
 ### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[goudan.site](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：
@@ -92,7 +92,7 @@
 
 ### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[goflybit.pages.dev](https://flybit.my/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -105,7 +105,7 @@
 
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
-注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
+注册链接：[点击进入](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
 最便宜的订阅有15.8元 160G/月。
@@ -118,7 +118,7 @@
 
 ### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[goudan.site](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
  
 最便宜的订阅有9元 120G/月。
