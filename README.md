@@ -4,9 +4,9 @@
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
- ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+ ## [TG账号商店 ](https://shop.idbb.me/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-[点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
+[点击进入TG账号商店 ](https://shop.idbb.me/)
 
 
 ## 高速机场推荐
@@ -77,9 +77,9 @@
 
 * * *
 
-### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [西游云](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK)
 
-注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击进入](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK)
 
 
 试用：
@@ -138,15 +138,15 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/9/20250912.txt 
+https://a.nodeshare.xyz/uploads/2025/9/20250913.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/9/20250912.yaml
+https://a.nodeshare.xyz/uploads/2025/9/20250913.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/9/20250912.json 
+ https://a.nodeshare.xyz/uploads/2025/9/20250913.json 
 
 ### 高速机场推荐4
 
