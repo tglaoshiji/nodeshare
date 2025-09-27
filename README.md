@@ -138,11 +138,11 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/9/20250926.txt 
+https://a.nodeshare.xyz/uploads/2025/9/20250927.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/9/20250926.yaml
+https://a.nodeshare.xyz/uploads/2025/9/20250927.yaml
 
 sing-box订阅链接: 
 
