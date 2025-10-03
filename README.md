@@ -138,15 +138,15 @@
 
 v2ray订阅链接: 
 
-https://a.nodeshare.xyz/uploads/2025/10/20251002.txt 
+https://a.nodeshare.xyz/uploads/2025/10/20251003.txt 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/10/20251002.yaml
+https://a.nodeshare.xyz/uploads/2025/10/20251003.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/10/20251002.json 
+ https://a.nodeshare.xyz/uploads/2025/10/20251003.json 
 
 ### 高速机场推荐4
 
