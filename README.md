@@ -140,17 +140,17 @@ v2ray订阅链接:
 
 https://tglaoshiji.github.io/nodeshare/clash.yaml
 
-https://a.nodeshare.xyz/uploads/2025/11/20251103.txt 
+https://a.nodeshare.xyz/uploads/2025/11/20251104.txt 
 
 clash订阅链接：
 
 https://tglaoshiji.github.io/nodeshare/v2ray.txt
 
-https://a.nodeshare.xyz/uploads/2025/11/20251103.yaml
+https://a.nodeshare.xyz/uploads/2025/11/20251104.yaml
 
 sing-box订阅链接: 
 
- https://a.nodeshare.xyz/uploads/2025/11/20251103.json 
+ https://a.nodeshare.xyz/uploads/2025/11/20251104.json 
 
 ### 高速机场推荐4
 
