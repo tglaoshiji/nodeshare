@@ -1,4 +1,4 @@
-## 更新时间 2025-12-20
+## 更新时间 2025-12-21
 #  每天定时更新clash\v2ray\ss\ssr\torjan 最新免费节点 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
@@ -139,17 +139,17 @@ v2ray订阅链接:
 
 https://tglaoshiji.github.io/nodeshare/clash.yaml
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251220.txt 
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251221.txt 
 
 clash订阅链接：
 
 https://tglaoshiji.github.io/nodeshare/v2ray.txt
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251220.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251221.yaml
 
 sing-box订阅链接: 
 
- https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251220.json 
+ https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251221.json 
 
 ### 高速机场推荐4
 
