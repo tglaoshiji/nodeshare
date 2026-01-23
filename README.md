@@ -1,4 +1,4 @@
-## 更新时间 2026-01-22
+## 更新时间 2026-01-23
 #  每天定时更新clash\v2ray\ss\ssr\torjan 最新免费节点 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
