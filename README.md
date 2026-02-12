@@ -139,17 +139,17 @@ v2ray订阅链接:
 
 https://tglaoshiji.github.io/nodeshare/clash.yaml
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260211.txt 
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260212.txt 
 
 clash订阅链接：
 
 https://tglaoshiji.github.io/nodeshare/v2ray.txt
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260211.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260212.yaml
 
 sing-box订阅链接: 
 
- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/1/20260211.json 
+ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/1/20260212.json 
 
 ### 高速机场推荐3
 
