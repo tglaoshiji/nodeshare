@@ -16,7 +16,7 @@
 | [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 | ✔支持 |
 | [星辰vpn](http://c.xcvpn.me/?path=register&code=jWv0CnPO) | [点击进入](http://c.xcvpn.me/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
-| [西游云](https://www.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?code=2mVFWPT1) | | 9元 120G/30天 | ✔支持 ||
+| [西游云](https://c.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://c.xiyou666.xyz/?code=2mVFWPT1) | | 9元 120G/30天 | ✔支持 ||
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
 | [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 15.9元 120G/月 |  |
@@ -64,9 +64,9 @@
 
 * * *
 
-### [西游云](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK)
+### [西游云](https://c.xiyou666.xyz/?code=2mVFWPT1)
 
-注册链接：[点击进入](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK)
+注册链接：[点击进入](https://c.xiyou666.xyz/?code=2mVFWPT1)
 
 
 试用：
