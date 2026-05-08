@@ -127,7 +127,7 @@ v2ray订阅链接:
 
 https://tglaoshiji.github.io/nodeshare/clash.yaml
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/5/20260506.txt 
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/5/20260508.txt 
 
 clash订阅链接：
 
