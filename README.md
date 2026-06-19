@@ -1,4 +1,4 @@
-## 更新时间 2026-06-18
+## 更新时间 2026-06-19
 #  每天定时更新clash\v2ray\ss\ssr\torjan 最新免费节点 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
@@ -18,7 +18,6 @@
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://c.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://c.xiyou666.xyz/?code=2mVFWPT1) | | 9元 120G/30天 | ✔支持 ||
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
-| [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 15.9元 120G/月 |  |
 
 
