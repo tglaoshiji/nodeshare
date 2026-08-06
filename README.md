@@ -14,7 +14,7 @@
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
 | [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 | ✔支持 |
-| [星辰vpn](http://c.kilxs.cn/?path=register&code=jWv0CnPO) | [点击进入](http://c.kilxs.cn/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
+| [星辰vpn](http://c.kilxs.cn/?code=tLBWwhPs) | [点击进入](http://c.kilxs.cn/?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://d.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://d.xiyou666.xyz/?code=2mVFWPT1) | | 9元 120G/30天 | ✔支持 ||
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
