@@ -56,9 +56,9 @@
 <h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
 <h3></h3>
 
-### [星辰VPN](http://c.xcvpn.me/?path=register&code=jWv0CnPO)
+### [星辰VPN](http://c.kilxs.cn/?code=tLBWwhPs)
 
-注册链接：[点击注册](http://c.xcvpn.me/?path=register&code=jWv0CnPO)
+注册链接：[点击注册](http://c.kilxs.cn/?code=tLBWwhPs)
 
 
 最便宜的订阅有6元 60G/月。
@@ -69,9 +69,9 @@
 
 * * *
 
-### [西游云](https://c.xiyou666.xyz/?code=2mVFWPT1)
+### [西游云](https://d.xiyou666.xyz/?code=2mVFWPT1)
 
-注册链接：[点击进入](https://c.xiyou666.xyz/?code=2mVFWPT1)
+注册链接：[点击进入](https://d.xiyou666.xyz/?code=2mVFWPT1)
 
 
 试用：
