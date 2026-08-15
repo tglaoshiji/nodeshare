@@ -1,4 +1,4 @@
-## 更新时间 2026-8-14
+## 更新时间 2026-8-15
 #  每天定时更新clash\v2ray\ss\ssr\torjan 最新免费节点 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
@@ -44,7 +44,7 @@
 
 - 绿牛云 - 稳定高速的绿色云加速服务
 - 绿牛云提供稳定、高速、安全的全球网络加速服务。精选优质线路，覆盖主流区域，帮助跨境办公、学习与娱乐保持顺畅连接。
-- 网站注册地址：【<a href="https://www.nfsq.us/#/register?code=CH8dmRTt" target="_blank">绿牛云（点击注册）</a>】
+### - 网站注册地址：【<a href="https://www.nfsq.us/#/register?code=CH8dmRTt" target="_blank">绿牛云（点击注册）</a>】
 ***
 
 <h3></h3>
@@ -132,17 +132,17 @@ v2ray订阅链接:
 
 https://tglaoshiji.github.io/nodeshare/clash.yaml
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20260814.txt 
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20260815.txt 
 
 clash订阅链接：
 
 https://tglaoshiji.github.io/nodeshare/v2ray.txt
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20260814.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20260815.yaml
 
 sing-box订阅链接: 
 
- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20260814.json 
+ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/8/20260815.json 
 
 ### 高速机场推荐3
 
