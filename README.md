@@ -1,4 +1,4 @@
-## 更新时间 2026-9-1
+## 更新时间 2026-9-2
 #  每天定时更新clash\v2ray\ss\ssr\torjan 最新免费节点 
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
@@ -13,7 +13,7 @@
 
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) |  	 | 10元 300G/月 | ✔支持 |
+| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) |  	 | 10元 200G/月 | ✔支持 |
 | [星辰vpn](http://c.kilxs.cn/?code=tLBWwhPs) | [点击进入](http://c.kilxs.cn/?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://d.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://d.xiyou666.xyz/?code=2mVFWPT1) | | 9元 120G/30天 | ✔支持 ||
@@ -30,7 +30,7 @@
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 
-最便宜的订阅有10元 300G/月
+最便宜的订阅有10元 200G/月
 
 
 
@@ -132,17 +132,17 @@ v2ray订阅链接:
 
 https://tglaoshiji.github.io/nodeshare/clash.yaml
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/2026901.txt 
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260902.txt 
 
 clash订阅链接：
 
 https://tglaoshiji.github.io/nodeshare/v2ray.txt
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/2026901.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260902.yaml
 
 sing-box订阅链接: 
 
- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/2026901.json 
+ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260902.json 
 
 ### 高速机场推荐3
 
