@@ -130,13 +130,13 @@ v2ray订阅链接:
 
 https://tglaoshiji.github.io/nodeshare/clash.yaml
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260919.txt 
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260921.txt 
 
 clash订阅链接：
 
 https://tglaoshiji.github.io/nodeshare/v2ray.txt
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260919.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260921.yaml
 
 sing-box订阅链接: 
 
