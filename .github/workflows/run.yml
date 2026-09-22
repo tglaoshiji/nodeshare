@@ -3,7 +3,7 @@ name: Auto Create Today Post & Update README
 on:
   workflow_dispatch: # 允许在 GitHub 后台手动触发
   schedule:
-    - cron: '20 1 * * *' # 
+    - cron: '20 1 * * *'
 
 jobs:
   create-post:
@@ -28,6 +28,14 @@ jobs:
           import re
           import random
 
+          # ----------------- 1. 定义并计算日期变量 -----------------
+          now = datetime.datetime.now()
+          today_file_date_str = now.strftime('%Y-%m-%d')
+          target_chinese_date = now.strftime('%Y年%m月%d日')
+          target_short_chinese_date = now.strftime('%m月%d日')
+          target_slash_date = now.strftime('%Y/%m/%d')
+          target_compact_date = now.strftime('%Y%m%d')
+
           # ----------------- 2. 自动更新根目录下的 README.md -----------------
           readme_path = "README.md"
           if os.path.exists(readme_path):
@@ -51,6 +59,5 @@ jobs:
       - name: 提交并推送修改
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: daily auto-update  and README"
+          commit_message: "chore: daily auto-update and README"
           branch: main
-         
