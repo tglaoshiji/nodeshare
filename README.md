@@ -136,11 +136,11 @@ clash订阅链接：
 
 https://tglaoshiji.github.io/nodeshare/v2ray.txt
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261022.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261023.yaml
 
 sing-box订阅链接: 
 
- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261022.json 
+ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/10/20261023.json 
 
 ### 高速机场推荐3
 
